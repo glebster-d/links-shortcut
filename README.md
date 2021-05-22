@@ -1,1 +1,3 @@
-# links-shortcut
+# Links shortcut
+
+**MERN stack project**
