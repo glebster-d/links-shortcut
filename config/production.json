@@ -1,0 +1,7 @@
+{
+    "port": 80,
+    "mongoUri": "mongodb+srv://glebster:1234qwer@cluster0.9bfmh.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "glebster-d secret project",
+    "baseUrl": "http://localhost:5000"
+  }
+  
